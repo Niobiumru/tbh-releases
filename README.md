@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Niobiumru/tbh/master/img/tbh.png" alt="Taskbar Hero Notifier Logo" width="128" />
+  <img src="img/tbh.png" alt="Taskbar Hero Notifier Logo" width="128" />
 
   # Taskbar Hero Notifier & Dashboard
   
